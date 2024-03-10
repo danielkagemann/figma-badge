@@ -1,0 +1,17 @@
+{
+  "name": "Badge",
+  "id": "1348568447810935841",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  },
+  "documentAccess": "dynamic-page"
+}
